@@ -221,6 +221,5 @@ config/prod.js
 *.zip
 
 # Application specific
-/public/uploads/
 /storage/
 /bootstrap/cache/
