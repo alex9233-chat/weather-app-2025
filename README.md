@@ -260,18 +260,5 @@ MIT License – see [LICENSE](LICENSE)
 
 ---
 
-## 🔮 Future Enhancements
-
-* [ ] Hourly forecast
-* [ ] Severe weather alerts
-* [ ] Interactive weather maps
-* [ ] Historical data
-* [ ] Multiple saved locations
-* [ ] Weather widgets
-* [ ] PWA support
-* [ ] Voice search
-
----
-
-**Made with ❤️ and ☀️ by \[Your Name]**
+**Made with ❤️ and ☀️ by \[Muhammad Hisham]**
 ⭐ Star this repo if you like it!
