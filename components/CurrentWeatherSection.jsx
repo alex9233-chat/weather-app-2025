@@ -14,7 +14,7 @@ export const CurrentWeatherSection = ({
     <div 
       className="relative rounded-2xl overflow-hidden p-6"
       style={{
-        backgroundImage: 'url(images/sunset-field.jpg)',
+        backgroundImage: 'url(/images/sunset-field.jpg)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat'
