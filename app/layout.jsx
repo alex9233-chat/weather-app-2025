@@ -9,9 +9,7 @@ const montserrat = Montserrat({ subsets: ['latin'] })
 export const metadata = {
   title: 'Weather App',
   description: 'A modern, responsive weather application built with Next.js, React, and Tailwind CSS. Get real-time weather data with automatic location detection, beautiful themes, and an intuitive user interface.',
-  icons: {
-    icon: '/favicon.ico',
-  },
+  
 }
 
 export default function RootLayout({ children }) {
